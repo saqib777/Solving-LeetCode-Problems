@@ -1,15 +1,15 @@
-###Intuition
+##Intuition
 For every number in the list, check every other number that comes after it. If any two numbers add up to the target, return their indices.
 
-###Approach
+##Approach
 This is my first time appraoch to solve a problem online, so I used the brute force.
 
 ###Complexity
-####Time complexity:O(n²)
+###Time complexity:O(n²)
 
-###Space complexity: O(1) (constant space)
+##Space complexity: O(1) (constant space)
 
-###Code
+##Code
 class Solution:
     def twoSum(self, nums, target):
         for i in range(len(nums)):
