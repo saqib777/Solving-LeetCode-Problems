@@ -7,7 +7,7 @@ This is my first time appraoch to solve a problem online, so I used the brute fo
 ###Complexity
 ####Time complexity:O(n²)
 
-####Space complexity: O(1) (constant space)
+###Space complexity: O(1) (constant space)
 
 ###Code
 class Solution:
