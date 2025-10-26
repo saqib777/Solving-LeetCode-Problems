@@ -1,4 +1,4 @@
-##Intuition
+**Intuition**
 For every number in the list, check every other number that comes after it. If any two numbers add up to the target, return their indices.
 
 ##Approach
