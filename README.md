@@ -49,6 +49,7 @@ This makes it easy to revisit and revise concepts quickly.
 | 15 | 14 | Longest Common Prefix | 🟢 Easy | Strings |
 | 16 | 268 | Missing Number | 🟢 Easy | Math / Bit Manipulation |
 | 17 | 01 | Sum of Two Arrays (Custom Practice) | 🟢 Easy | Basics |
+| 18 | 228 | Summary Ranges | 🟢 Easy | 2 pointer | 
 
 
 *(More problems added regularly)*
