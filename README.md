@@ -30,22 +30,26 @@ This makes it easy to revisit and revise concepts quickly.
 
 ##  Problems Covered So Far
 
-| # | Problem | Difficulty | Topic |
-|---|----------|-------------|--------|
-| 26 | Remove Duplicates from Sorted Array | Easy | Arrays |
-| 27 | Remove Element | Easy | Arrays |
-| 35 | Search Insert Position | Easy | Binary Search |
-| 66 | Plus One | Easy | Arrays |
-| 88 | Merge Sorted Array | Easy | Two Pointers |
-| 108 | Convert Sorted Array to Binary Search Tree | Easy | Trees |
-| 118 | Pascal’s Triangle | Easy | Arrays |
-| 119 | Pascal’s Triangle II | Easy | Arrays |
-| 121 | Best Time to Buy and Sell Stock | Easy | Greedy |
-| 136 | Single Number | Easy | Bit Manipulation |
-| 1578 | Minimum Time to Make Rope Colorful | Medium | Greedy / Arrays |
-| 169 | Majority Element | Easy | Arrays |
-| 217 | Contains Duplicate | Easy | HashSet |
-| 14 | Longest Common Prefix | Easy | Strings |
+| Sl. No. | Problem No. | Problem Title | Difficulty | Topic |
+|:--:|:--:|:--|:--:|:--|
+| 1 | 26 | Remove Duplicates from Sorted Array | 🟢 Easy | Arrays |
+| 2 | 27 | Remove Element | 🟢 Easy | Arrays |
+| 3 | 35 | Search Insert Position | 🟢 Easy | Binary Search |
+| 4 | 66 | Plus One | 🟢 Easy | Arrays |
+| 5 | 88 | Merge Sorted Array | 🟢 Easy | Two Pointers |
+| 6 | 108 | Convert Sorted Array to Binary Search Tree | 🟢 Easy | Trees |
+| 7 | 118 | Pascal’s Triangle | 🟢 Easy | Arrays |
+| 8 | 119 | Pascal’s Triangle II | 🟢 Easy | Arrays |
+| 9 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | Greedy |
+| 10 | 136 | Single Number | 🟢 Easy | Bit Manipulation |
+| 11 | 1578 | Minimum Time to Make Rope Colorful | 🟡 Medium | Greedy / Arrays |
+| 12 | 169 | Majority Element | 🟢 Easy | Arrays |
+| 13 | 217 | Contains Duplicate | 🟢 Easy | HashSet |
+| 14 | 219 | Contains Duplicate II | 🟢 Easy | HashMap / Sliding Window |
+| 15 | 14 | Longest Common Prefix | 🟢 Easy | Strings |
+| 16 | 268 | Missing Number | 🟢 Easy | Math / Bit Manipulation |
+| 17 | 01 | Sum of Two Arrays (Custom Practice) | 🟢 Easy | Basics |
+
 
 *(More problems added regularly)*
 
