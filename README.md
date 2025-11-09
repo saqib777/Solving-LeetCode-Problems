@@ -1,7 +1,5 @@
 # Solving-LeetCode-Problems
 
-# Solving-LeetCode-Problems
-
 A structured collection of **LeetCode solutions** written in Python — each with explanations, time and space complexity analysis, and clean code.  
 This repository serves as a personal reference and learning archive for common **Data Structures and Algorithms (DSA)** patterns.
 
@@ -100,8 +98,8 @@ Feel free to use and share with credit.
 ##  Connect
 
 - GitHub: [@saqib777](https://github.com/saqib777)  
-- LeetCode: [[Profile Link](https://leetcode.com/) *(optional to add)* ](https://leetcode.com/u/uenvkW0GtL) 
+- LeetCode: (https://leetcode.com/u/uenvkW0GtL) 
 
 ---
 
-> _"Code until it clicks — clarity comes from practice."_ 🔁
+> _"Code until it clicks — clarity comes from practice."_ 
