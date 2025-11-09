@@ -9,7 +9,7 @@
 
 </div>
 
-A structured collection of **LeetCode solutions** written in Python — each with explanations, time and space complexity analysis, and clean code.  
+A structured collection of **LeetCode solutions** written in Python, each with explanations, time and space complexity analysis, and clean code.  
 This repository serves as a personal reference and learning archive for common **Data Structures and Algorithms (DSA)** patterns.
 
 ---
