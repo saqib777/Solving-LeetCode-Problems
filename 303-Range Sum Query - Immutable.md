@@ -36,3 +36,17 @@ Constraints:
 0 <= left <= right < nums.length
 At most 104 calls will be made to sumRange.
 ```
+```
+class NumArray:
+
+    def __init__(self, nums):
+        # Precompute prefix sums
+        self.prefix = [0]
+        for num in nums:
+            self.prefix.append(self.prefix[-1] + num)
+
+    def sumRange(self, left, right):
+        # Subtract prefix sums to get the range sum
+        return self.prefix[right + 1] - self.prefix[left]
+
+```
