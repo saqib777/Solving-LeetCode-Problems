@@ -26,3 +26,14 @@ Constraints:
 1 <= nums.length <= 104
 -231 <= nums[i] <= 231 - 1
  ```
+```
+class Solution:
+    def moveZeroes(self, nums):
+        lastNonZero = 0
+
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[i], nums[lastNonZero] = nums[lastNonZero], nums[i]
+                lastNonZero += 1
+
+```
