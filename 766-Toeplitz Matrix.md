@@ -34,3 +34,19 @@ What if the matrix is stored on disk, and the memory is limited such that you ca
 What if the matrix is so large that you can only load up a partial row into the memory at once?
 
 ```
+
+```
+
+Solution:
+class Solution:
+    def isToeplitzMatrix(self, matrix):
+        rows = len(matrix)
+        cols = len(matrix[0])
+
+        for i in range(1, rows):
+            for j in range(1, cols):
+                if matrix[i][j] != matrix[i - 1][j - 1]:
+                    return False
+
+        return True
+```
