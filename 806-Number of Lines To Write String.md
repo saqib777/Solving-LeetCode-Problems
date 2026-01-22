@@ -12,6 +12,8 @@ Example 1: Input: widths = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,1
 
 There are a total of 2 lines, and the last line is 4 pixels wide.
 
+## **Solution:**
+
 ```
 
 class Solution:
